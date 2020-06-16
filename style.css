@@ -1,0 +1,19 @@
+  body {
+    background-color: #efee9d;
+    font-size: 20px;
+    font-family: monospace;
+  }
+
+  h2{
+  text-align: center;
+    color: #f3c623;
+  }
+  
+hr{
+border-color: white;
+}
+
+  img {
+    height: 300px;
+    width: 200px;
+  }
